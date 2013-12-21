@@ -1,0 +1,18 @@
+.UFILikeLink {
+    display: inline-block;
+    visibility: hidden;
+    margin: 0;
+    width: 72px;
+}
+
+.UFILikeLink:after {
+    display: inline-block;
+    visibility: visible;
+    height: 13px;
+    content: "Hellllllll yeah";
+}
+
+.uiLinkButton input {
+    vertical-align: text-top !important;
+    margin-top: -1px !important;
+}
