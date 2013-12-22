@@ -1,16 +1,18 @@
 {
-    "name": "hellyeah",
-    "version": "0.0.1",
-    "manifest_version": 2,
-    "description": "Dave Fontenot all the time.",
-    "icons": {
-        "16": "images/icon-16.png",
-        "128": "images/icon-128.png"
-    },
-    "default_locale": "en",
-    "content_scripts": [{
-        "matches": ["*://*.facebook.com/*"],
-        "css": [ "styles/main.css" ],
-        "run_at": "document_start"
-    }]
+   "content_scripts": [ {
+      "css": [ "styles/main.css" ],
+      "js": [ "scripts/main.js" ],
+      "matches": [ "*://*.facebook.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "Don't just like something, hellllllll yeah it!",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "manifest_version": 2,
+   "name": "Hell Yeahify",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
 }
