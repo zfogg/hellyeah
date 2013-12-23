@@ -23,13 +23,13 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"],
 .UFILikeLink[data-ft="{\"tn\":\">\"}"]:before,
 a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:before,
 .fbUpDownVoteOption[ajaxify$="vote=up"]:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
 }
 .like_button:before {
-    content:"Hellllllll Yeah!" !important;
+    content:"Hellllllll yeah" !important;
 }
 .like_link[name="like"] > .saving_message,
 .like_link[name="unlike"] > .default_message,
@@ -44,13 +44,13 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:b
 .like_button_unlike:before,
 .UFILikeLink[data-ft="{\"tn\":\"?\"}"]:before,
 .fbUpDownVoteOption[ajaxify$="vote=neutral"]:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
 }
 .like_button.like_button_unlike:before {
-    content:"Hellllllll Noooo" !important;
+    content:"Un-hellllllll yeah" !important;
 }
 
 /* story, line 50 of base.scss */
@@ -73,7 +73,7 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:b
     line-height:1;
 }
 ._6k6 > span:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -83,7 +83,7 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:b
     font-size:12px;
 }
 ._5l95 ._6k5 > span:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
 }
 .like_link[name="action\00005Blike\00005D"] {
     font-size:0 !important;
@@ -100,7 +100,7 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:b
     visibility:hidden;
 }
 ._1-b:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:12px;
     visibility:visible;
     display:inline;
@@ -110,7 +110,7 @@ a[ajaxify^="/ajax/timeline/app_collection_item/feedback/stub.php?action=like"]:b
     visibility:hidden;
 }
 ._ai6:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:12px;
     visibility:visible;
     display:inline;
@@ -126,7 +126,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText {
     visibility:hidden;
 }
 a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah!";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -140,7 +140,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbProfileBrowser a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=0"] .uiButtonText:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -157,7 +157,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
 #pagelet_escape_hatch_interests .uiIconText:before,
 #pagelet_like_stream .uiIconText:before,
 #liked_pages_timeline_unit_list .uiIconText:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -183,7 +183,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .page_browser_like:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -193,7 +193,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .page_browser_liked:before {
-    content:"Hellllllll Yeah'd";
+    content:"Hellllllll yeah'd";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -203,7 +203,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .page_browser_unlike:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -214,7 +214,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .timelinePageLikedPagesLabel .lfloat:before {
-    content:"Hellllllll Yeah'd";
+    content:"Hellllllll yeah'd";
     visibility:visible;
 }
 
@@ -224,7 +224,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .timelineLikesTabHeader .tabHeaderTitle ._6b:nth-child(2):before {
-    content:"Hellllllll Yeahs and People Blabbering About This";
+    content:"Hellllllll yeahs and people blabbering about this";
     font-size:15px;
     visibility:visible;
     display:inline;
@@ -239,7 +239,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #timelineHeadlineLikeButton .uiButtonText:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -254,7 +254,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbTimelineUnit[id^="tl_unit_2409997254_"] .titleWithSubtitle .title:before {
-    content:"Hellllllll Yeahs";
+    content:"Hellllllll yeahs";
     font-size:13px;
     visibility:visible;
     display:inline;
@@ -266,7 +266,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #boostedPagelikePanel ._558p[ajaxify^="/ajax/browser/dialog/page_fans/"]:before {
-    content:"See Hellllllll Yeahs";
+    content:"See hellllllll yeahs";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -278,7 +278,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #photos_snowlift .uiLayer .isPage.pas > .pageLink:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -294,7 +294,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbPhotosPhotoButtons .like .likeButton .uiButtonText:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah!";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -308,7 +308,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbPhotosPhotoButtons .unlike .likeButton .uiButtonText:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -318,7 +318,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbPhotoSnowlift .fbPhotosPhotoButtons .buttonLink .like:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -331,7 +331,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbPhotoSnowlift .fbPhotosPhotoButtons .buttonLink .unlike:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -346,7 +346,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
 }
 .fbPhotosRedesignLike:before,
 ._53d ._53o:before {
-    content:"Hellllllll Yeah!";
+    content:"Hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -358,7 +358,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
 }
 .fbPhotosRedesignUnlike:before,
 ._53d ._53p:before {
-    content:"Hellllllll Noooo";
+    content:"Un-hellllllll yeah";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -369,7 +369,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility: hidden;
 }
 #medley_header_likes > ._51sx:before {
-    content:"Hellllllll Yeahs";
+    content:"Hellllllll yeahs";
     visibility: visible;
 }
 ._3c_[aria-controls$=":221226937919712:10"] >._3sz,
@@ -385,7 +385,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
 ._3c_[aria-controls$=":309918815775486:53"] >._3sz:before,
 ._3c_[aria-controls$=":332953846789204:15"] >._3sz:before,
 ._3c_[aria-controls$=":249944898349166:58"] >._3sz:before {
-    content:"Hellllllll Yeahs";
+    content:"Hellllllll yeahs";
     font-size:13px;
     display:inline;
 }
@@ -394,7 +394,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 ._3c_[aria-controls$=":2409997254:45"] >._3sz:before {
-    content:"Other Hellllllll Yeahs";
+    content:"Other hellllllll yeahs";
     font-size:13px;
     display:inline;
 }
@@ -405,7 +405,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #pagelet_timeline_app_collection_report_95 ._4se3 > ._51r5:before {
-    content:"What teams do you Hellllllll Yeahs?";
+    content:"What teams make you say hellllllll yeah?";
     font-size:16px;
     visibility:visible;
     display:inline;
@@ -423,7 +423,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
 }
 #pagelet_timeline_likes_nav_top .title > .text:before,
 #pagelet_timeline_favorites_nav_top .title > .text:before {
-    content:"Hellllllll Yeahs";
+    content:"Hellllllll yeahs";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -434,7 +434,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     line-height:1;
 }
 ._5n1d[href$="navLikes"] > ._5n98:before {
-    content:"Hellllllll Yeahs";
+    content:"Hellllllll yeahs";
     font-size:14px;
     visibility:visible;
     display:inline;
@@ -446,7 +446,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 ._5feu[href$="navLikes"] > ._5fez > ._5ejd:before {
-    content:"Page Hellllllll Yeahs";
+    content:"Page hellllllll yeahs";
     font-size:16px;
     visibility:visible;
     display:inline;
@@ -467,7 +467,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .fbLikeTitle .marketingSubheaderSmall:before {
-    content:"Share the things you Hellllllll Yeah'd!";
+    content:"Share the things you hellllllll yeah'd!";
     font-size:18px;
     visibility:visible;
     display:inline;
@@ -477,7 +477,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 .pageFriendSummaryContainer .friendInviteHeaderText:before {
-    content:"Invite Your Pals to Hellllllll Yeah this Page";
+    content:"Invite your pals to hellllllll yeah this page";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -487,7 +487,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #admin_panel_likes .adminPanelBlankStateText > .fcg:before {
-    content:"No new Hellllllll Yeahs";
+    content:"No new hellllllll yeahs";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -499,7 +499,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #wizard_step_page_suggestions .stepTitle + .fcg:before {
-    content:"Hellllllll Yeah your favorite pages to get their latest updates.";
+    content:"Hellllllll yeah your favorite pages to get their latest updates.";
     font-size:11px;
     visibility:visible;
     display:inline;
@@ -511,7 +511,7 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     visibility:hidden;
 }
 #megaphone_story_1459 .sourceSuggestionMegaphoneFirstHeader:before {
-    content:"Hellllllll Yeah your favorite Pages";
+    content:"Hellllllll yeah your favorite pages";
     font-size:12px;
     visibility:visible;
     display:inline;
@@ -537,38 +537,4 @@ a[ajaxify^="/ajax/pages/fan_status.php"][ajaxify*="add=1"] .uiButtonText:before 
     font-size:16px;
     visibility:visible;
     display:inline;
-}
-
-/* Dave, line 1 of dave.scss */
-a[data-hovercard*="/ajax/hovercard/user.php?id=629564354"],
-a.profileLink[href*="facebook.com/davefontenot"],
-a.UFICommentActorName[href*="facebook.com/davefontenot"] {
-    background-color:#fdee5f!important;
-}
-a._8_2[href*="facebook.com/davefontenot"]:before {
-    content:"";
-    position:absolute;
-    width:0;
-    height:0;
-    border-width:10px;
-    border-style:solid;
-    border-color:transparent #fdee5f transparent transparent;
-    top:-45px;
-    left:-20px;
-}
-a._8_2[href*="facebook.com/davefontenot"]:after {
-    position:absolute;
-    left:0;
-    margin-top:-50px;
-    background:#fdee5f;
-    color:black;
-    text-shadow:none;
-    border:1px solid black;
-    border-radius:4px;
-    box-shadow:0 0 20px #fdee5f;
-    padding:8px;
-    font-size:20px;
-    line-height:12px;
-    font-weight:normal;
-    content:"hellllllll yeah";
 }
